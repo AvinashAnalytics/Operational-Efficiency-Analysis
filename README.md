@@ -6,7 +6,7 @@
 # **Synergizing Success: Improving Operational Efficiency and Employee Engagement**
 
 
-<img src="https://tse2.mm.bing.net/th?id=OIG4.LNu7x2xTTarojqBsNNzz&pid=ImgGn" width="500 height="500" />
+<img src="https://tse2.mm.bing.net/th?id=OIG4.LNu7x2xTTarojqBsNNzz&pid=ImgGn" width="500" height="500" />
 
 
 
