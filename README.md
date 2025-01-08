@@ -57,46 +57,20 @@ The dataset used for this analysis is available in the `/data/` folder of the re
 - **Google Sheets/Excel:** For data visualization and manipulation.
 - **Python (Optional):** For advanced analytics and visualizations.
 
----
+--
 
-## **Folder Structure**
-/Operational-Efficiency-Analysis
-│
-├── /data/                     # Folder containing the dataset
-│   └── dataset.csv            # Dataset file (e.g., sales, employee, product data)
-│
-├── /sql_queries/              # Folder for SQL query files
-│   ├── employee_performance.sql    # SQL queries related to employee performance
-│   ├── product_sales.sql         # SQL queries related to product sales and customer satisfaction
-│   ├── supply_chain.sql         # SQL queries related to inventory management
-│   └── advanced_sql_queries.sql # Advanced SQL queries
-│
-├── /docs/                     # Documentation folder
-│   └── README.md              # This README file
-│
-├── LICENSE                    # License file (MIT, Apache, etc.)
-└── requirements.txt           # (Optional) File listing required Python packages
-
-
-
----
 
 ## **About Me (Avinash)**
 
 Hello! I am **Avinash**, a passionate data analyst with a strong background in SQL and data-driven decision-making. I specialize in **operational efficiency**, **business intelligence**, and **analyzing data** to improve employee performance and sales. I am currently looking for new opportunities in **data analytics**, **business analysis**, and **data-driven optimization**.
 
 ### **Quote:**
-*"Data is the new oil. Just as oil powered the last century, data will fuel the next."*  
-**— Avinash**
+*""Without data, you're just another person with an opinion." — W. Edwards Deming"*  
 
 Feel free to connect with me:
 - **GitHub:** [Avinash GitHub](https://github.com/avinashanalytics)
 - **LinkedIn:** [Avinash LinkedIn](https://www.linkedin.com/in/avinashanalytics)
 
----
-
-## **Visual Insights**
-Here is a graph visualization of the key findings:
 
 ![Graph Example](https://cdn-icons-mp4.flaticon.com/512/17556/17556520.mp4)  
 *Note: Replace this with your actual graph image.*
