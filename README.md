@@ -57,28 +57,27 @@ The company is currently facing several operational inefficiencies:
 
 The dataset used for this analysis is available in the `/data/` folder of the repository. It contains information related to employees, products, sales, inventory, suppliers, and more.
 
-[Access the dataset here](https://github.com/avinashanalytics/Operational-Efficiency-Analysis/raw/main/data/dataset.csv)
+     [Access the dataset here](https://github.com/avinashanalytics/Operational-Efficiency- 
+      Analysis/raw/main/data/dataset.csv)
 
 ---
 
-## **Technologies Used**
-
-- **SQL:** For querying, data manipulation, and analysis.
-- **Google Sheets/Excel:** For data visualization and manipulation.
-- **Python (Optional):** For advanced analytics and visualizations.
+# **Technologies Used**
+     - **SQL:** For querying, data manipulation, and analysis.
+      - **Google Sheets/Excel:** For data visualization and manipulation.
+      - **Python (Optional):** For advanced analytics and visualizations.
 
 --
 
 
-## **About Me (Avinash)**
-
-Hello! I am **Avinash**, a passionate data analyst with a strong background in SQL and data-driven decision-making. I specialize in **operational efficiency**, **business intelligence**, and **analyzing data** to improve employee performance and sales. I am currently looking for new opportunities in **data analytics**, **business analysis**, and **data-driven optimization**.
-
+# **About Me (Avinash)**
+    Hello! I am **Avinash**, a passionate data analyst with a strong background in SQL and data-driven decision- making. I specialize in **operational efficiency**, **business intelligence**, and **analyzing data** to improve employee performance and sales. I am currently looking for new opportunities in **data analytics**, **business analysis**, and **data-driven optimization**.
 
 
-Feel free to connect with me:
-- **GitHub:** [Avinash GitHub](https://github.com/avinashanalytics)
-- **LinkedIn:** [Avinash LinkedIn](https://www.linkedin.com/in/avinashanalytics)
+
+# Feel free to connect with me:
+    - **GitHub:** [Avinash GitHub](https://github.com/avinashanalytics)
+    - **LinkedIn:** [Avinash LinkedIn](https://www.linkedin.com/in/avinashanalytics)
 
 
 
