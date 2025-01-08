@@ -1,3 +1,8 @@
+   ### **Quote:**
+    *""Without data, you're just another person with an opinion." — W. Edwards Deming"*  
+
+
+
 # **Synergizing Success: Improving Operational Efficiency and Employee Engagement**
 
 ## **Project Overview**
@@ -64,8 +69,7 @@ The dataset used for this analysis is available in the `/data/` folder of the re
 
 Hello! I am **Avinash**, a passionate data analyst with a strong background in SQL and data-driven decision-making. I specialize in **operational efficiency**, **business intelligence**, and **analyzing data** to improve employee performance and sales. I am currently looking for new opportunities in **data analytics**, **business analysis**, and **data-driven optimization**.
 
-### **Quote:**
-*""Without data, you're just another person with an opinion." — W. Edwards Deming"*  
+
 
 Feel free to connect with me:
 - **GitHub:** [Avinash GitHub](https://github.com/avinashanalytics)
