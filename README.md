@@ -1,5 +1,5 @@
-   ### **Quote:**
-    *""Without data, you're just another person with an opinion." — W. Edwards Deming"*  
+ ### **Quote:**
+          If you can't measure it, you can't improve it.     — Peter Drucker
 
 
 
