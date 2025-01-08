@@ -5,6 +5,11 @@
 
 # **Synergizing Success: Improving Operational Efficiency and Employee Engagement**
 
+
+<img src="https://tse2.mm.bing.net/th?id=OIG4.LNu7x2xTTarojqBsNNzz&pid=ImgGn" width="600" />
+
+
+
 ## **Project Overview**
 
 This project aims to improve operational efficiency and employee engagement in a multi-departmental business. By leveraging data analysis techniques, the goal is to optimize decision-making processes related to employee performance, product sales, customer satisfaction, and inventory management using SQL and business intelligence tools.
