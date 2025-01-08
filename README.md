@@ -76,7 +76,8 @@ Feel free to connect with me:
 - **LinkedIn:** [Avinash LinkedIn](https://www.linkedin.com/in/avinashanalytics)
 
 
-v![Graph Example](https://cdn.dribbble.com/users/498724/screenshots/2322365/media/232817ed66ac9dda00dc127e461be647.gif) 
+
+<img src="https://cdn.dribbble.com/users/498724/screenshots/2322365/media/232817ed66ac9dda00dc127e461be647.gif" width="600" />
 
 
 ---
