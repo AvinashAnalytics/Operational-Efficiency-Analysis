@@ -72,8 +72,8 @@ Feel free to connect with me:
 - **LinkedIn:** [Avinash LinkedIn](https://www.linkedin.com/in/avinashanalytics)
 
 
-![Graph Example](https://cdn-icons-mp4.flaticon.com/512/17556/17556520.mp4)  
-*Note: Replace this with your actual graph image.*
+!(https://cdn.dribbble.com/users/498724/screenshots/2322365/media/232817ed66ac9dda00dc127e461be647.gif)  
+
 
 ---
 
